@@ -1,6 +1,6 @@
 # Issue Templates
 
-Useful for testing and creating issue templates suitable for [abbreviations-in-code](https://github.com/abbrcodes/abbreviations-in-code) projects.
+Useful for testing and creating issue templates suitable for the [abbreviations-in-code](https://github.com/abbrcodes/abbreviations-in-code) project.
 
 (temporary repository, may be removed in the future)
 
