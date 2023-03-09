@@ -26,3 +26,13 @@ __________
 ## License
 
 Undecided (see [here](https://github.com/abbrcodes/abbreviations-in-code/issues/45))
+
+````
+Any contributors, forks, to this repository must agree that
+all their contributions will eventually be licensed under a
+license to be discussed by the abbrcodes (tentative name)
+organization in the future.
+
+If you disagree with this, please do not use, distribute
+and contribute to this repository's files.
+````
