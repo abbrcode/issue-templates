@@ -1,6 +1,6 @@
 # Issue Templates
 
-Useful for testing and creating issue templates suitable for the [abbreviations-in-code](https://github.com/abbrcodes/abbreviations-in-code) project.
+For testing and creating issue templates suitable for the [abbreviations-in-code](https://github.com/abbrcodes/abbreviations-in-code) project.
 
 (temporary repository, may be removed in the future)
 
@@ -33,6 +33,6 @@ all their contributions will eventually be licensed under a
 license to be discussed by the abbrcodes (tentative name)
 organization in the future.
 
-If you disagree with this, please do not use, distribute
-and contribute to this repository's files.
+If you disagree with this, please do not use, distribute and
+contribute to this repository's files.
 ````
